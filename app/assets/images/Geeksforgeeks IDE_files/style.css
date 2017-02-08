@@ -1,0 +1,34 @@
+.btnOutput,.btnInput,.btnEditor,.btnLink{
+	font-size:15px;
+	margin-top:2px;
+}
+.editorBlock{
+	height:500px;
+}
+#editor{
+	height:100%;
+	width:100%;
+}
+#upload{
+	padding:0px !important;
+}
+#uploadForm{
+	padding:6px;
+}
+#preOutput{
+	width: 100%;
+        height: auto;
+        max-height: 200px;
+        overflow: auto;
+        background-color: #eeeeee;
+        word-break: normal !important;
+        word-wrap: normal !important;
+        white-space: pre !important;
+}
+#preLink{
+	width:100%;
+}
+.btn{
+	height: 35px;
+}
+
